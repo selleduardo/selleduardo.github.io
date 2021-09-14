@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Gonçalves</title>
+    <link>/</link>
+    <description>Recent content on Eduardo Gonçalves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eduardo Sell Gonçalves</title>
+      <link>/about/</link>
+      <pubDate>Tue, 14 Sep 2021 11:42:24 -0300</pubDate>
+      
+      <guid>/about/</guid>
+      <description>PhD in Physics (Institute of Physics, University of São Paulo, 2019), Master of Science (Institute of Physics, University of São Paulo, 2015) and Bachelor of Physics with Basic Research Qualification (University of São Paulo, 2012). I have research experience in the field of nonlinear optics and nanotechnology, in particular on second and third order nonlinear optical properties of magnetic nanoparticles and 2D materials.</description>
+    </item>
+    
+  </channel>
+</rss>
