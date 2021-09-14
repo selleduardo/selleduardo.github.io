@@ -3,20 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://selleduardo.github.io/publications/</loc>
+    <lastmod>2021-09-14T12:44:29-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://selleduardo.github.io/about/</loc>
     <lastmod>2021-09-14T11:42:24-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://selleduardo.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://selleduardo.github.io/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://selleduardo.github.io/tags/</loc>
   </url>
   
 </urlset>
