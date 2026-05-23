@@ -2,28 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eduardo Sell Gonçalves</title>
-    <link>https://selleduardo.github.io/</link>
+    <link>https://hugo-profile.netlify.app/</link>
     <description>Recent content on Eduardo Sell Gonçalves</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://selleduardo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Publications</title>
-      <link>https://selleduardo.github.io/publications/</link>
-      <pubDate>Tue, 14 Sep 2021 12:44:29 -0300</pubDate>
-      
-      <guid>https://selleduardo.github.io/publications/</guid>
-      <description>Gonçalves, E.S.; Cocca , L.; Araujo, W.; Parekh, K.; Oliveira, C.; Siqueira, J.; Mendonca, C.; De Boni, L. and Figueiredo Neto, A.M. &amp;ldquo;Influence of magnetic field on the two-photon absorption and hyper-Rayleigh scattering of manganese-zinc ferrite nanoparticles.&amp;quot; The Journal of Physical Chemistry C 124, 6784 (2020)
-  Batalioto, F.; Gonçalves, E.S.; Figueiredo Neto, A.M. and Barbero, G. &amp;ldquo;Electric response of cells of ferrofluids to ac external electric field: Dependence on the concentration of magnetic particles and on the electrodes.</description>
-    </item>
-    
-    <item>
-      <title>Eduardo Sell Gonçalves</title>
-      <link>https://selleduardo.github.io/about/</link>
-      <pubDate>Tue, 14 Sep 2021 11:42:24 -0300</pubDate>
-      
-      <guid>https://selleduardo.github.io/about/</guid>
-      <description>My name is Eduardo Sell Gonçalves and I have obtained my PhD degree in December 2019 from the Institute of Physics, University of São Paulo (USP), São Paulo, Brazil. Since 2020 I have been a postdoctoral researcher at the &amp;ldquo;Gleb Wataghin&amp;rdquo; Institute of Physics, UNICAMP, Campinas, Brazil. For both master&amp;rsquo;s and doctoral degrees, as well as for my postdoc position, I was granted a fellowship from the São Paulo Research Foundation (FAPESP), one of the most prestigious funding agencies in Brazil.</description>
-    </item>
-    
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
